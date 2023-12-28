@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961405689684",
+    "project_id": "cartoon-tv-ced38",
+    "storage_bucket": "cartoon-tv-ced38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961405689684:android:f3aa709fdf1ab3f25df2c1",
+        "android_client_info": {
+          "package_name": "com.deepakdevloper.cartoontv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi3AywkaCtxPt0LoTRwQD1_KFUEYl8lRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
