@@ -46,6 +46,11 @@ class TopCartoonAdapter(context: Context, categoryList: ArrayList<TopCatoon>,car
         return categoryList.size
     }
 
+    fun filterList(filteredNames: ArrayList<TopCatoon>) {
+        this.categoryList = filteredNames
+        notifyDataSetChanged()
+    }
+
     class TopCartoonViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var categoryImage: ImageView
         var categoryName: TextView
